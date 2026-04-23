@@ -1,0 +1,5 @@
+en esta versión 19/04 se realizo la corrección de duración años negocio para consolidado
+Ahora se muestran todos los años no sólo 40.
+
+
+
